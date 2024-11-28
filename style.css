@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+
+th,td{
+    padding: 30px;
+}
+
+.to{
+    color: red;
+}
+p{
+   text-align: center; 
+}
+header{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+    text-decoration: none;
+    gap:20px;
+}
+.t{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap:20px;
+    justify-content: center;
+}
+body{
+    background-color:lightblue ;
+}
+a:hover{
+    color:green;
+}
